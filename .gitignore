@@ -1,0 +1,10 @@
+# Local maintenance notes
+/使用说明.md
+
+# Local tools and generated files
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
